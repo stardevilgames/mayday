@@ -20,7 +20,7 @@ as it could be a massive slowdown. Instead use the `SAVE` opcode, which can be d
 {
     "op": 2,
     "pid": "...",
-    "state":
+    "state": { ... }
 }
 ```
 
